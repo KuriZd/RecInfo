@@ -1,6 +1,6 @@
-# 🔎 Hacks de Búsqueda -- Guía Completa (20 Hacks + RSS)
+# Hacks de Búsqueda -- Guía Completa (20 Hacks + RSS)
 
-# 📚 Árbol de Contenidos
+# Árbol de Contenidos
 
 -   [Top 20 Hacks de Búsqueda](#-top-20-hacks-de-búsqueda)
     -   [Nivel Fundamental](#-nivel-fundamental)
@@ -12,7 +12,7 @@
     -   [10 Sitios con RSS y Cómo Usarlos](#-10-sitios-con-rss-y-cómo-usarlos)
     -   [¿Qué es RSS?](#-qué-es-rss)
     -   [Cómo usar un RSS](#-cómo-usar-un-rss-ejemplo-con-feedly)
-    -   [Estrategia Pro](#-estrategia-pro)
+    -   [Estrategia de uso](#-estrategia-pro)
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ Fecha: 2026
 
 ------------------------------------------------------------------------
 
-# 🔹 TOP 20 HACKS DE BÚSQUEDA
+# TOP 20 HACKS DE BÚSQUEDA
 
-## 🔎 Nivel Fundamental
+##  Nivel Fundamental
 
 1.  "frase exacta"
 2.  palabra1 -palabra2
@@ -33,7 +33,7 @@ Fecha: 2026
 
 ------------------------------------------------------------------------
 
-## ⚙️ Nivel Intermedio
+##  Nivel Intermedio
 
 6.  intitle:palabra
 7.  inurl:login
@@ -43,7 +43,7 @@ Fecha: 2026
 
 ------------------------------------------------------------------------
 
-## 🚀 Nivel Avanzado (Investigación Académica)
+##  Nivel Avanzado (Investigación Académica)
 
 11. site:.edu "deep learning"
 12. site:.gov filetype:pdf cybersecurity
@@ -53,9 +53,9 @@ Fecha: 2026
 
 ------------------------------------------------------------------------
 
-## 💻 Nivel Avanzado (Desarrollo Web)
+##  Nivel Avanzado (Desarrollo Web)
 
-16. site:github.com "useEffect("
+16. site:github.com "useEffect"
 17. "React Native" "memory leak" -stackoverflow
 18. "Next.js authentication" site:nextjs.org
 19. "dataset" "machine learning" filetype:csv
@@ -63,7 +63,7 @@ Fecha: 2026
 
 ------------------------------------------------------------------------
 
-# 🔹 10 SITIOS CON RSS Y CÓMO USARLOS
+# 10 SITIOS CON RSS Y CÓMO USARLOS
 
 ## ¿Qué es RSS?
 
@@ -97,7 +97,7 @@ web usando lectores como Feedly o Inoreader.
 
 ------------------------------------------------------------------------
 
-# 🎯 Estrategia Pro
+#  Estrategia de uso
 
 Combina: site:github.com "jwt auth" filetype:md -deprecated
 
