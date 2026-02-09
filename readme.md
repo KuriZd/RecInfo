@@ -41,3 +41,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>FEBRERO 2026</strong>
 </p>
+
+## Índice (Árbol de links)
+
+- 📁 Contenido
+  - 🔎 [Hacks de búsqueda avanzados](./docs/hacks_de_busqueda_avanzados.md)
+
