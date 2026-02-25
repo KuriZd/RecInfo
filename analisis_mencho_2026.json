@@ -1,0 +1,772 @@
+[
+    {
+        "fuente":"Xataka.com",
+        "titulo":"México se ha convertido en una zona de guerra a pocos meses del Mundial: la muerte de 'El Mencho' emite un mensaje preocupante",
+        "url":"https:\/\/www.xataka.com\/magnet\/violencia-muerte-mencho-esta-afectando-al-futbol-mexicano-eso-problema-visperas-mundial",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"El ejército mexicano mata al narcotraficante Nemesio Oseguera Cervantes, \"el Mencho\", líder del Cartel de Jalisco",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cvg515vj65lo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"En gráficos: las fases de la operación del Ejército de México contra \"El Mencho\"",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/c8d5e489vdeo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Xataka.com",
+        "titulo":"Ahora que ha muerto el cártel más buscado en México se abren tres posibilidades inquietantes. Todas con EEUU en la diana",
+        "url":"https:\/\/www.xataka.com\/magnet\/ha-muerto-cartel-buscado-mexico-se-abren-tres-posibilidades-inquietantes-para-seguridad-eeuu",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"\"Parecía una zona de guerra\": así fue la jornada de violencia que se vivió en Puerto Vallarta y otras localidades de México tras la captura de \"El Mencho\"",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/c9dn0lz8eq2o",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"Qué se sabe de la operación que llevó a la muerte de \"el Mencho\", el narcotraficante más buscado por México y EE.UU.",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/c8753q0n9y9o",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Marca",
+        "titulo":"El vídeo más surrealista de la muerte de El Mencho: \"Detuve una bala con mi rostro”",
+        "url":"https:\/\/www.marca.com\/tiramillas\/sociedad\/2026\/02\/23\/soldado-mexicano-desafia-muerte-enfrentamiento-cartel-jalisco-detuve-bala-mi-rostro.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Expansion.com",
+        "titulo":"México acabó con \"El Mencho\" rastreando a su pareja sentimental",
+        "url":"https:\/\/www.expansion.com\/economia\/financial-times\/2026\/02\/24\/699d6b63468aeb474d8b4586.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El Mundo",
+        "titulo":"El Gobierno mexicano confirma que el ejército atrapó a 'El Mencho' tras un encuentro amoroso con su novia",
+        "url":"https:\/\/www.elmundo.es\/internacional\/2026\/02\/23\/699c6735e4d4d8eb7c8b45a8.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"Quién era \"el Mencho\", el hombre más buscado de México que fue abatido en una operación del Ejército en el estado de Jalisco",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cp85m2p417do",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"\"El Tuli\", la mano derecha de \"El Mencho\" que organizó los bloqueos y disturbios tras la muerte del jefe del Cartel Jalisco Nueva Generación y también fue abatido",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/c0j59vxyd99o",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"México: Estados Unidos colaboró en la caída del Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588398-mexico-eeuu-colaborar-caida-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Reportan la muerte del líder del Cártel Jalisco Nueva Generación",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588381-reportan-muerte-lider-cartel-jalisco-nueva-generacion",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"Cómo el Cartel Jalisco Nueva Generación se convirtió en el más poderoso de México y qué puede ocurrir ahora que \"El Mencho\", su máximo y único jefe, fue abatido",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cj0dyjrrp0yo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"\"Descabezar Jalisco y matar a 'El Mencho' puede traer efectos que van en contra del objetivo de la presidenta Sheinbaum de pacificar México\"",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cddnz82v2qyo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"La Nacion",
+        "titulo":"Quién era El Mencho, el líder del Cártel Jalisco Nueva Generación por el que EE.UU. ofrecía US$15 millones",
+        "url":"https:\/\/www.lanacion.com.ar\/estados-unidos\/quien-era-el-mencho-el-lider-del-cartel-jalisco-nueva-generacion-por-el-que-eeuu-ofrecia-us15-nid22022026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO EN PRIMERA PERSONA de los fuertes enfrentamientos armados en México tras la muerte del Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588499-video-primera-persona-fuertes-enfrentamientos-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"NYP: México trasladó a casi 100 miembros de cárteles a EE.UU. en un solo año",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588707-nyp-mexico-transporto-miembros-carteles-eeuu",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"El momento en el que el secretario de Defensa de México se emociona al recordar a los 25 guardias nacionales caídos tras la operación contra \"El Mencho\"",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cvg53ed09x5o",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Detienen a un alcalde mexicano por su presunto vínculo con un poderoso cártel (VIDEO)",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/585796-detener-alcalde-mexicano-presunto-vinculo-cartel",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Huffingtonpost.es",
+        "titulo":"La muerte del jefe del Cártel Jalisco Nueva Generación provoca una oleada de disturbios en México",
+        "url":"https:\/\/www.huffingtonpost.es\/global\/la-muerte-jefe-cartel-jalisco-nueva-generacion-provoca-oleada-disturbios-mexico-f202602.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"\"Ejecución exitosa\": EE.UU. elogia el operativo en México en el que abatieron al Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588494-eeuu-elogia-operativo-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Reforma.com",
+        "titulo":"Así detuvieron a 'El Mencho'",
+        "url":"https:\/\/www.reforma.com\/asi-detuvieron-a-el-mencho\/ar3157445",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Analista: La caída del Mencho sería la acción anticriminal más importante del siglo",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588441-analista-caida-mencho-accion-siglo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO: Incendio en un centro comercial en medio del caos tras la caída del Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588436-incendio-centro-comercial-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEOS: Así se ve México desde el aire durante el caos desatado por la caída del Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588488-videos-asi-ver-mexico-aire",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO DE LA FRÍA REACCIÓN de los vecinos ante un tiroteo en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588465-video-fria-reaccion-vecinos-tiroteo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":1
+    },
+    {
+        "fuente":"BBC News",
+        "titulo":"Qué es la Fuerza de Tarea Conjunta Interagencial Anticarteles, la unidad del ejército de EE.UU. que participó en la operación contra el \"El Mencho\"",
+        "url":"https:\/\/www.bbc.com\/mundo\/articles\/cr45ex7yzpeo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO: Suspenden el transporte interurbano en varias regiones de México en medio del caos tras la caída del Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588411-video-suspenden-transporte-interurbano-regiones",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"FOTOS Y VIDEOS de los 'narcobloqueos' de carreteras en México en medio de la ola de violencia",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588481-fotos-videos-narcobloqueos-carreteras-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Eldiario.es",
+        "titulo":"Quién era 'El Mencho', el capo mexicano de perfil bajo y violencia extrema",
+        "url":"https:\/\/www.eldiario.es\/internacional\/mencho-capo-mexicano-perfil-violencia-extrema_128_13012333.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Sheinbaum comenta el papel de EE.UU. en la eliminación de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588611-sheinbaum-comenta-papel-eeuu-eliminacion-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Expansion.com",
+        "titulo":"Piden a los españoles en México no salir a la calle ante el estallido de violencia tras la muerte del narco 'El Mencho'",
+        "url":"https:\/\/www.expansion.com\/latinoamerica\/2026\/02\/23\/699bfef8e5fdeaa9658b45b2.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"La Nacion",
+        "titulo":"La muerte del líder del Cartel Jalisco Nueva Generación hunde a varios estados mexicanos en una ola de violencia",
+        "url":"https:\/\/www.lanacion.com.ar\/el-mundo\/la-muerte-del-lider-del-cartel-jalisco-nueva-generacion-hunde-a-varios-estados-mexicanos-en-una-ola-nid22022026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Motorpasión",
+        "titulo":"Coches, autobuses y gasolineras incendiadas. Los narcos han desatado el caos en México",
+        "url":"https:\/\/www.motorpasion.com\/seguridad\/coches-autobuses-gasolineras-incendiadas-narcos-han-desatado-caos-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO: Guardia Nacional escolta una ambulancia que podría llevar el cuerpo de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588466-video-guardia-nacional-escolta-ambulancia",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Esta sería la novia de 'El Mencho', que fue clave para localizarlo",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588729-seria-novia-mencho-clave-localizarlo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Aviones, helicópteros y blindados: así fue el megaoperativo contra 'El Mencho' en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588410-mexico-detalles-operativo-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Reforma.com",
+        "titulo":"Muere 'El Mencho' camino a CDMX tras operativo en Jalisco",
+        "url":"https:\/\/www.reforma.com\/muere-el-mencho-camino-a-cdmx-tras-operativo-en-jalisco\/ar3157019",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO que mostraría el enfrentamiento que derivó en la muerte del Mencho en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588447-video-mostraria-enfrentamiento-derivo-muerte",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Cayó por amor? El dato clave que permitió la caída de 'El Mencho', líder del CJNG",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588600-cayo-amor-dato-clave-caida-mencho-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"NUEVO VIDEO del tiroteo entre el CJNG y el Ejército mexicano",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588455-nuevo-video-tiroteo-cjng-ejercito-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Reforma.com",
+        "titulo":"Alcanzan narcobloqueos a 11 estados",
+        "url":"https:\/\/www.reforma.com\/alcanzan-narcobloqueos-a-11-estados\/ar3156941",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Ciudad turística mexicana, bajo asedio tras el asesinato de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588454-ciudad-turistica-mexicana-asedio-asesinato-el-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Nemesio Oseguera ‘El Mencho’ murió cuando era trasladado por agentes federales",
+        "url":"https:\/\/aristeguinoticias.com\/2202\/mexico\/nemesio-oseguera-el-mencho-murio-cuando-era-trasladado-por-agentes-federales\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Al menos 26 personas mueren como resultado del operativo contra 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588507-operativo-mencho-26-muertos",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Perfil | Nemesio Oseguera Cervantes ‘El Mencho’ y el ascenso del CJNG",
+        "url":"https:\/\/aristeguinoticias.com\/2202\/mexico\/perfil-nemesio-oseguera-cervantes-el-mencho-y-el-ascenso-del-cjng\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO de una brutal emboscada de blindados del CJNG a la Guardia Nacional en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588426-video-brutal-emboscada-blindados-cjng-guardia-nacional-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Imagen del cuerpo de ‘El Mencho’ que circula en redes es falsa; fue generada con IA",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/imagen-del-cuerpo-de-el-mencho-que-circula-en-redes-es-falsa-fue-generada-con-ia\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"FUERTE VIDEO: Soldado mexicano sobrevive y se ríe tras recibir un disparo en la cara",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588459-fuerte-video-soldado-mexicano-sobrevivir",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Reforma.com",
+        "titulo":"Revela narco Alcalde: 'el patrón es Mencho'",
+        "url":"https:\/\/www.reforma.com\/revela-narco-alcalde-el-patron-es-mencho\/ar3148097",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Embajador tras el operativo contra 'El Mencho': \"Los EE.UU. se mantienen firmes junto a las autoridades mexicanas\"",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588518-embajador-operativo-mencho-eeuu-mantienen",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Primer comentario de Trump tras ser abatido el Mencho en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588408-trump-comentar-muerte-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Cómo murió 'El Mencho' en el operativo de México contra el CJNG?",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588430-como-murio-el-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"EE.UU. aclara su contribución al operativo en el que mataron a 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588420-eeuu-aclara-contribucion-operativo-mataron",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Huffingtonpost.es",
+        "titulo":"España pide extremar la precaución en México tras la muerte de ‘El Mencho’ y la ola de violencia en varios estados",
+        "url":"https:\/\/www.huffingtonpost.es\/global\/espana-pide-extremar-precaucion-mexico-muerte-el-mencho-ola-violencia-estados-f202602.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Huffingtonpost.es",
+        "titulo":"Matan a tiros en México a 'El Mencho', líder del mayor cártel del país y uno de los más buscados por EEUU",
+        "url":"https:\/\/www.huffingtonpost.es\/global\/matan-a-tiros-en-mexico-a-el-mencho-el-lider-del-mayor-cartel-del-pais-y-uno-de-los-mas-buscados-por-eeuu-f202602.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Cómo la violencia tras la muerte de 'El Mencho' afectó al tráfico aéreo en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588681-vuelos-cancelados-demorados-afectaciones-mexico-violencia",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"\"Decisiva ejecución\": EE.UU. elogia a México por \"eliminación\" del 'Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588680-departamento-estado-eeuu-felicitar-mexico-operativo-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Huffingtonpost.es",
+        "titulo":"Quién era 'El Mencho', el capo más importante de México y uno de los más buscados por EEUU",
+        "url":"https:\/\/www.huffingtonpost.es\/global\/quien-el-mencho-capo-mas-importante-mexico-mas-buscados-eeuu-f202602.html",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"El primer comentario de la Casa Blanca sobre la eliminación del Mencho en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588493-primer-comentario-casa-blanca-eliminacion-el-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Cuáles eran las conexiones de 'El Mencho' en Colombia?",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588643-cuales-conexiones-mencho-colombia",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Un estudio genético confirma la identidad del 'Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588768-estudio-genetico-confirma-identidad-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Qué permitió una respuesta coordinada del narco tras la caída de 'El Mencho'?",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588574-permitio-respuesta-coordinada-narco-caida",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Sheinbaum dice que \"prácticamente toda la actividad\" se restableció en México tras la ola de narcoviolencia",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588601-sheinbaum-dice-actividad-restablecio-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO: Así luce el interior de un 'narcotanque-monstruo' blindado que usan cárteles mexicanos",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588710-video-interior-narcotanque-monstruo-blindado-carteles-mexicanos",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"\"Es un territorio de guerra\": el 'influencer' mexicano Luisito Comunica reacciona a la narcoviolencia",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588557-territorio-guerra-luisito-comunica-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Matan al ‘Mencho’; detonan terror; Abate ejército a El Mencho; y más | Titulares nacionales 23\/02\/2026",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/matan-al-mencho-detonan-terror-abate-ejercito-a-el-mencho-y-mas-titulares-nacionales-23-02-2026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"El balance del terror en el epicentro de la narcoviolencia en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588491-balance-narcoviolencia-jalisco",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"'Influencer' de EE.UU. cuenta cómo quedó atrapada en México tras la muerte de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588678-influencer-queda-atrapada-mexico-medio",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Revelan qué unidad de EE.UU. estuvo detrás de la eliminación de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588659-revelan-unidad-eeuu-estuvo-detras",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Quién liderará ahora el CJNG? 5 posibles sucesores tras la muerte de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588461-quien-liderara-ahora-cjng-5-posibles-sucesores-el-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Jornada.com.mx",
+        "titulo":"Abate el Ejército a El Mencho",
+        "url":"https:\/\/www.jornada.com.mx\/2026\/02\/23\/politica\/002n1pol",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"WP: Una fuerza operativa del Pentágono participó en el operativo contra El Mencho",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588482-wp-fuerza-operativa-pentagono-participo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"'Halcones', sicarios y cómplices: así era el triple anillo de protección de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588530-halcones-sicarios-complices-esquema-proteccion-oculto-mecho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Los VIDEOS más estremecedores de la ola de violencia del CJNG tras la operación",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588484-videos-estremecedores-ola-violencia-cjng",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Diario EL PAIS Uruguay",
+        "titulo":"Ejército mexicano mata al narco Nemesio Oseguera, \"El Mencho\", líder del Cártel Jalisco Nueva Generación",
+        "url":"https:\/\/www.elpais.com.uy\/mundo\/ejercito-mexicano-mata-al-narco-nemesio-oseguera-el-mencho-lider-del-cartel-jalisco-nueva-generacion",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Altar y tratamiento renal, en el refugio de El Mencho; Mata coche-bomba a mando de la GN; y más | Titulares nacionales 24\/02\/2026",
+        "url":"https:\/\/aristeguinoticias.com\/2402\/mexico\/altar-y-tratamiento-renal-en-el-refugio-de-el-mencho-mata-coche-bomba-a-mando-de-la-gn-y-mas-titulares-nacionales-24-02-2026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Jornada.com.mx",
+        "titulo":"Golpe histórico al CJNG",
+        "url":"https:\/\/www.jornada.com.mx\/2026\/02\/23\/politica\/008n1pol",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Ambulancia forense de FGR llega a FEMDO; trae restos de abatidos en Jalisco",
+        "url":"https:\/\/aristeguinoticias.com\/2202\/mexico\/ambulancia-forense-de-fgr-llega-a-femdo-trae-restos-de-abatidos-en-jalisco\/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Aristegui en Vivo: El lugar donde cayó ‘El Mencho’; el país está en calma: Sheinbaum; cuatro años de la invasión rusa a Ucrania (24\/02\/2026)",
+        "url":"https:\/\/aristeguinoticias.com\/2402\/mexico\/aristegui-en-vivo-confirman-fuga-en-penal-de-puerto-vallarta-cuatro-anos-de-la-invasion-rusa-a-ucrania-24-02-2026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEOS desde el aeropuerto de Guadalajara en medio de ola de narcoviolencia en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588385-videos-aeropuerto-guadalajara-medio-ola",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Aristegui en Vivo: Caída de ‘El Mencho’ desata violencia y suspensión de actividades; 252 bloqueos en 20 estados (23\/02\/2026)",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/aristegui-en-vivo-caida-de-el-mencho-desata-violencia-y-suspension-de-actividades-252-bloqueos-en-20-estados-23-02-2026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Sheinbaum, tras violencia en México: \"Se está resguardando la paz, la seguridad y la normalidad\"",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588669-sheinbaum-mexico-resguardar-paz-seguridad-normalidad",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Embajada de EE.UU. en México emite alerta de seguridad tras ataques del cártel CJNG por la muerte de su líder",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588387-embajada-eeuu-mexico-emite-alerta-",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"VIDEO: Captan la potente explosión de un coche bomba del CJNG que mató a un capitán en México",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588823-video-potente-explosion-coche-bomba-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"México debería buscar ayuda militar de EE.UU. para acabar con los cárteles, dice un congresista estadounidense",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588497-congresista-decir-mexico-deber-buscar-ayuda-militar-eeuu",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Confirman fuga de 23 reos del penal de Puerto Vallarta",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/confirman-fuga-de-23-reos-del-penal-de-puerto-vallarta\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Quién era 'El Mencho'?, el líder del cártel más poderoso y peligroso del mundo",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588409-quien-el-mencho-capos-peligrosos-buscados-mundo",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"La ola de violencia en México hace peligrar una sede del Mundial 2026",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588545-ola-violencia-mexico-hace-peligrar",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Así amanece México después de la muerte de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588556-asi-amanece-mexico-despues-muerte-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"EE.UU. subraya cooperación “sin precedentes” tras muerte de “El Mencho”",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/ee-uu-subraya-cooperacion-sin-precedentes-tras-muerte-de-el-mencho\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"Revelan el rol que jugó la CIA para propiciar la caída del 'Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588765-revelar-rol-cia-propiciar-caida-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Reforma.com",
+        "titulo":"Encienden al País",
+        "url":"https:\/\/www.reforma.com\/encienden-al-pais-bloqueos-carreteros-en-20-estados\/ar3157280",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"EN VIVO: Sheinbaum ofrece la primera rueda de prensa tras el abatimiento de 'El Mencho'",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588543-sheinbaum-revela-detalles-muerte-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Dónde está el cuerpo de 'El Mencho'? Esto dice el Gobierno de Sheinbaum",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588587-donde-esta-cuerpo-mencho",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"El Mencho: el mayor logro de las autoridades federales; Elogios al ejercito mexicano desde Washington; y más | Columnas Políticas 23\/02\/2026",
+        "url":"https:\/\/aristeguinoticias.com\/2302\/mexico\/el-mencho-el-mayor-logro-de-las-autoridades-federales-elogios-al-ejercito-mexicano-desde-washington-y-mas-columnas-politicas-23-02-2026\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Boston Herald",
+        "titulo":"“El Mencho”: de narcomenudeo a dirigir el cártel más poderoso de México",
+        "url":"https:\/\/www.bostonherald.com\/2026\/02\/23\/el-mencho-de-narcomenudeo-a-dirigir-el-crtel-ms-poderoso-de-mxico\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"RT",
+        "titulo":"¿Cómo se reconfigurará el narcotráfico en México tras la caída de 'El Mencho'?",
+        "url":"https:\/\/actualidad.rt.com\/actualidad\/588563-mencho-reconfigura-control-narcotrafico-mexico",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Aristeguinoticias.com",
+        "titulo":"Landau felicita a México por muerte de ‘El Mencho’",
+        "url":"https:\/\/aristeguinoticias.com\/2202\/mexico\/landau-felicita-a-mexico-por-muerte-de-el-mencho\/",
+        "metodo":"NewsAPI",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El Diario NY",
+        "titulo":"Trump se atribuye la muerte de \"El Mencho\", líder del CJNG",
+        "url":"https:\/\/eldiariony.com\/2026\/02\/24\/trump-se-atribuye-la-muerte-de-el-mencho-lider-del-cjng\/",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Univision Noticias",
+        "titulo":"Federación Portuguesa de Fútbol monitorea situación de seguridad en México previo al partido amistoso de marzo",
+        "url":"https:\/\/www.univision.com\/noticias\/america-latina\/federacion-portuguesa-de-futbol-monitorea-situacion-de-seguridad-en-mexico-previo-al-partido-amistoso-de-marzo",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El Tiempo",
+        "titulo":"La carta que encontraron en la casa de alias El Mencho tras ser dado de baja en México",
+        "url":"https:\/\/www.eltiempo.com\/mundo\/mexico\/la-carta-que-encontraron-en-la-casa-de-alias-el-mencho-tras-ser-dado-de-baja-en-mexico-3535189",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El Comercio - Perú",
+        "titulo":"Cómo ‘El Mencho’ construyó el cártel más poderoso de México y qué puede pasar tras su muerte",
+        "url":"https:\/\/elcomercio.pe\/mundo\/mexico\/el-mencho-que-pasara-con-el-cjng-tras-la-muerte-de-nemesio-oseguera-mexico-jalisco-narcotrafico-tlcnota-noticia\/",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Univision Noticias",
+        "titulo":"Presidente de la FIFA dice estar \"muy tranquilo\" con México como sede del Mundial 2026, tras hechos de violencia por muerte de \"El Mencho\"",
+        "url":"https:\/\/www.univision.com\/noticias\/america-latina\/presidente-de-la-fifa-dice-estar-muy-tranquilo-con-mexico-como-sede-del-mundial-2026-tras-hechos-de-violencia-por-muerte-de-el-mencho",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"ELHERALDO.CO",
+        "titulo":"Gobernador de Jalisco asegura que no hay riesgo de que México pierda las sedes del Mundial",
+        "url":"https:\/\/www.elheraldo.co\/mundo\/2026\/02\/24\/gobernador-de-jalisco-asegura-que-no-hay-riesgo-de-que-mexico-pierda-las-sedes-del-mundial\/",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El Financiero",
+        "titulo":"¿Cuerpo de ‘El Mencho’ será cremado si nadie lo reclama? Abogado explica cómo se aplica la Ley",
+        "url":"https:\/\/www.elfinanciero.com.mx\/nacional\/2026\/02\/24\/cuerpo-de-el-mencho-sera-cremado-si-nadie-lo-reclama-abogado-explica-como-se-aplica-la-ley\/",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"El País",
+        "titulo":"La muerte de Nemesio Oseguera, ‘El Mencho’, en vivo | Jalisco levanta el código rojo dos días después de la caída del Mencho",
+        "url":"https:\/\/elpais.com\/mexico\/2026-02-24\/la-muerte-de-nemesio-oseguera-el-mencho-en-vivo.html",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"Univision Noticias",
+        "titulo":"Influencer María Julissa y El Mencho: ella es señalada como su \"señorita de compañía\" y así reacciona",
+        "url":"https:\/\/www.univision.com\/famosos\/influencer-maria-julissa-reacciona-senalada-captura-el-mencho",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    },
+    {
+        "fuente":"LaRepública.pe",
+        "titulo":"La caída 'El Mencho', uno de los criminales más buscados y temidos de México",
+        "url":"https:\/\/larepublica.pe\/mundo\/2026\/02\/24\/la-caida-el-mencho-uno-de-los-criminales-mas-buscados-y-temidos-de-mexico-ntpe-457378",
+        "metodo":"GNews",
+        "nivel_riesgo":0
+    }
+]
