@@ -78,4 +78,5 @@
 | Proyecto | Repositorio |
 |---|---|
 | SIMANW | [github.com/KuriZd/SIMANW](https://github.com/KuriZd/SIMANW) |
+| XFiles | [github.com/KuriZd/X-Files](https://github.com/KuriZd/X-Files) |
 
