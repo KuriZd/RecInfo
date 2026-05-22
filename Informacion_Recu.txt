@@ -1,0 +1,175 @@
+RECUPERACIÓN DE INFORMACIÓN — Conceptos Fundamentales
+Zamudio Damián Oscar Kuricaveri | 22120729 | ITM Morelia | 2026
+======================================================================
+
+DEFINICIÓN
+----------
+La Recuperación de Información (Information Retrieval, IR) es el área de
+la informática que estudia cómo representar, almacenar, organizar y
+acceder a información almacenada en colecciones de documentos.
+
+A diferencia de la recuperación de datos (bases de datos relacionales),
+donde las consultas tienen respuestas exactas, la IR trabaja con texto
+no estructurado y devuelve resultados ordenados por relevancia estimada.
+
+MODELOS CLÁSICOS DE RECUPERACIÓN
+----------------------------------
+
+1. MODELO BOOLEANO
+   - Consultas con operadores AND, OR, NOT.
+   - Cada documento es relevante (1) o no (0), sin ranking.
+   - Limitación: no distingue entre documentos igualmente relevantes.
+   Ejemplo: "inteligencia AND artificial AND NOT robótica"
+
+2. MODELO VECTORIAL (TF-IDF)
+   - Representa documentos y consultas como vectores en el espacio de términos.
+   - La relevancia se mide por la similitud coseno entre el vector de la
+     consulta y el vector del documento.
+   - TF-IDF asigna mayor peso a términos frecuentes en un documento pero
+     raros en la colección.
+   - Es el modelo base de la mayoría de los sistemas modernos de IR.
+
+   TF(t,d) = frecuencia del término t en el documento d / total de términos
+   IDF(t)  = log(N / df(t))   donde N=total documentos, df=docs con término t
+   TF-IDF  = TF * IDF
+
+3. MODELO PROBABILÍSTICO (BM25)
+   - Extiende el modelo vectorial con un enfoque probabilístico.
+   - BM25 (Best Match 25) es el algoritmo de ranking más usado en motores
+     de búsqueda de texto como Elasticsearch y SQLite FTS5.
+   - Considera la longitud del documento para normalizar los pesos.
+
+MÉTRICAS DE EVALUACIÓN
+------------------------
+
+PRECISIÓN (Precision):
+   P = TP / (TP + FP)
+   De todos los documentos que recuperé, ¿cuántos son realmente relevantes?
+   Un sistema muy preciso devuelve pocos documentos, pero casi todos buenos.
+
+RECALL (Cobertura):
+   R = TP / (TP + FN)
+   De todos los documentos relevantes que existen, ¿cuántos recuperé?
+   Un sistema con alto recall devuelve muchos documentos, pero puede incluir ruido.
+
+F1-SCORE:
+   F1 = 2 * (P * R) / (P + R)
+   Media armónica de precisión y recall. Penaliza cuando uno de los dos es bajo.
+
+MEAN AVERAGE PRECISION (MAP):
+   Promedio de la precisión en cada posición donde aparece un documento relevante.
+   Es la métrica estándar para evaluar rankings de recuperación.
+
+PREPROCESAMIENTO DE TEXTO
+---------------------------
+
+1. Normalización de mayúsculas/minúsculas
+   "Inteligencia" → "inteligencia"
+
+2. Eliminación de puntuación y caracteres especiales
+   "¡Hola, mundo!" → "hola mundo"
+
+3. Tokenización
+   Dividir el texto en unidades (tokens): palabras, subpalabras, caracteres.
+   "El perro corre" → ["El", "perro", "corre"]
+
+4. Eliminación de stopwords
+   Palabras funcionales sin contenido semántico: "el", "la", "de", "y"...
+   "el perro rápido corre" → ["perro", "rápido", "corre"]
+
+5. Stemming
+   Reducción de palabras a su raíz morfológica:
+   "correr/corriendo/corrió" → "corr-"
+   Algoritmo Snowball es el más usado para español.
+
+6. Lematización
+   Reducción a la forma canónica del diccionario:
+   "corriendo/corrió" → "correr"
+   Más preciso que stemming pero más costoso computacionalmente.
+
+VECTORIZACIÓN
+--------------
+
+BOW (Bag of Words):
+   Cuenta la frecuencia de cada término en el documento.
+   Ignora el orden de las palabras.
+   Ejemplo: "el gato y el perro" → {el:2, gato:1, y:1, perro:1}
+
+TF-IDF:
+   Extiende BOW ponderando la importancia global de cada término.
+   Reduce el peso de términos muy frecuentes en toda la colección.
+
+Word Embeddings:
+   Representación densa de palabras en espacio vectorial continuo.
+   Palabras semánticamente similares tienen vectores próximos.
+   Modelos: Word2Vec, GloVe, FastText.
+
+Sentence Transformers:
+   Generan vectores densos para oraciones completas preservando significado.
+   Base de los sistemas de búsqueda semántica modernos.
+
+SISTEMAS DE RECUPERACIÓN
+--------------------------
+
+Índice Invertido:
+   Estructura que mapea cada término del vocabulario a los documentos
+   donde aparece. Es la base de todos los motores de búsqueda.
+   Término → [doc1(tf), doc3(tf), doc7(tf), ...]
+
+FTS5 (SQLite):
+   Motor de búsqueda de texto completo integrado en SQLite.
+   Implementa índice invertido y ranking BM25.
+   Permite búsquedas por prefijo, frases exactas y operadores booleanos.
+
+Elasticsearch:
+   Motor de búsqueda distribuido y escalable basado en Apache Lucene.
+   Usado en producción por empresas como Wikipedia, GitHub y Netflix.
+
+ARQUITECTURA GENERAL DE UN SISTEMA IR
+---------------------------------------
+
+[Corpus de documentos]
+       ↓
+[Preprocesamiento]
+       ↓
+[Indexación (índice invertido)]
+       ↓
+     ┌──────────────────┐
+     │ Interfaz de      │
+     │ consulta         │
+     └──────┬───────────┘
+            ↓
+[Procesamiento de consulta (mismo pipeline)]
+            ↓
+[Comparación consulta-documentos (coseno/BM25)]
+            ↓
+[Ranking de resultados por relevancia]
+            ↓
+[Presentación al usuario]
+
+TENDENCIAS ACTUALES (2026)
+----------------------------
+
+- Búsqueda semántica con Sentence Transformers y FAISS
+- Retrieval-Augmented Generation (RAG): combinar búsqueda con LLMs
+- Búsqueda multimodal: texto + imágenes + audio
+- Búsqueda conversacional: interfaces de lenguaje natural
+- Recuperación federada: búsqueda en múltiples repositorios distribuidos
+
+HERRAMIENTAS CLAVE EN PYTHON
+------------------------------
+
+Library          Uso principal
+─────────────────────────────────────────────────────
+feedparser       Parseo de feeds RSS/Atom
+NLTK             Tokenización, stopwords, stemming
+scikit-learn     TF-IDF, coseno, clustering, clasificación
+pandas           Manipulación y análisis de datos tabulares
+sqlite3          Base de datos local con soporte FTS5
+requests         Peticiones HTTP a APIs y feeds
+Selenium         Automatización de navegador web
+
+======================================================================
+Documento generado como material de apoyo para el curso de
+Recuperación de Información — ITM Departamento de Sistemas
+======================================================================

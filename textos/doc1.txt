@@ -1,0 +1,15 @@
+Inteligencia Artificial y Recuperación de Información
+
+La inteligencia artificial ha transformado profundamente la forma en que los sistemas modernos recuperan, clasifican y presentan información. Los motores de búsqueda actuales utilizan modelos de aprendizaje automático para entender la intención del usuario más allá de las palabras clave literales, ofreciendo resultados semánticamente relevantes.
+
+El procesamiento de lenguaje natural (PLN) es una rama central de la inteligencia artificial que permite a las máquinas comprender, interpretar y generar texto en lenguajes humanos. Técnicas como la tokenización, el análisis de sentimientos, la extracción de entidades nombradas y el modelado de temas han revolucionado la minería de texto y la recuperación de información.
+
+Los vectores de palabras, como Word2Vec y GloVe, representan términos en espacios de alta dimensionalidad donde la proximidad geométrica refleja similitud semántica. Este enfoque permite que un sistema de recuperación entienda que "automóvil" y "vehículo" son conceptualmente cercanos, mejorando la precisión de las búsquedas.
+
+El modelo TF-IDF (Term Frequency - Inverse Document Frequency) sigue siendo una herramienta fundamental para la vectorización de documentos. Asigna mayor peso a términos frecuentes en un documento pero raros en la colección, capturando la relevancia relativa de cada término para representar el contenido del documento.
+
+La similitud coseno mide el ángulo entre dos vectores de documentos en el espacio TF-IDF. Un ángulo pequeño indica alta similitud temática, independientemente de la longitud de los documentos. Este método es la base de los sistemas de recomendación de contenido y la recuperación por consulta.
+
+Los algoritmos de clustering, como K-Means, agrupan documentos similares sin supervisión humana. Aplicados a grandes colecciones de texto, permiten descubrir patrones temáticos emergentes, organizar automáticamente archivos y detectar tendencias en redes sociales y noticias.
+
+La evaluación de sistemas de recuperación de información utiliza métricas como precisión, recall y F1-score. La precisión mide qué proporción de los documentos recuperados son relevantes, mientras que el recall indica qué proporción de los documentos relevantes fueron efectivamente recuperados.

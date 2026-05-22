@@ -1,0 +1,15 @@
+Minería de Texto y Análisis de Sentimientos en Redes Sociales
+
+Las redes sociales generan volúmenes masivos de texto no estructurado cada segundo. Tweets, comentarios, reseñas y publicaciones contienen información valiosa sobre opiniones, tendencias y comportamientos de usuarios. La minería de texto extrae conocimiento útil de esta información mediante técnicas computacionales automatizadas.
+
+El análisis de sentimientos, también conocido como minería de opiniones, clasifica textos según la actitud emocional expresada: positiva, negativa o neutra. Las aplicaciones van desde el monitoreo de marcas comerciales hasta el análisis de opinión pública en campañas políticas y la detección de crisis en salud pública.
+
+Las técnicas de análisis de sentimientos se dividen en tres categorías principales. Los métodos basados en léxico utilizan diccionarios de palabras con polaridad asignada. Los métodos basados en aprendizaje automático entrenan clasificadores con ejemplos etiquetados. Los métodos híbridos combinan ambos enfoques para mejorar la robustez.
+
+La detección de sarcasmo representa uno de los desafíos más complejos del análisis de sentimientos. Un comentario como "claro que sí, excelente servicio" puede ser negativo si el contexto indica ironía. Los modelos modernos incorporan características contextuales, historia del usuario y señales lingüísticas para mejorar la detección.
+
+El preprocesamiento del texto es fundamental para cualquier análisis. La eliminación de stopwords, la normalización de mayúsculas, la gestión de emojis y la corrección ortográfica mejoran significativamente la calidad de los resultados. En español, el uso de stemmers como Snowball reduce las variantes morfológicas al mismo raíz.
+
+Los algoritmos de clasificación supervisada, como Naive Bayes, Regresión Logística y Máquinas de Soporte Vectorial (SVM), aprenden patrones a partir de conjuntos de entrenamiento etiquetados. La representación TF-IDF convierte los textos en vectores numéricos que estos algoritmos pueden procesar eficientemente.
+
+La evaluación ética del análisis de sentimientos en redes sociales requiere consideraciones sobre privacidad, sesgo algorítmico y uso responsable de los datos. Los modelos entrenados con datos históricos pueden perpetuar sesgos presentes en los datos de entrenamiento, afectando a grupos subrepresentados en la colección original.

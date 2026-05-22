@@ -73,6 +73,55 @@
 - 📁 Reducción de Dimensión
   - 📄 [Tabla de palabras principales por documento](./Reduccion_dimension.md)
 
+- 📁 Actividades de Investigación
+  - 📄 [Actividad 1.1 — Estrategias de búsqueda de información](./Actividad1.1.md)
+  - 📄 [Actividad 1.2 — Evaluación de credibilidad de fuentes](./Actividad1.2.md)
+  - 📄 [Actividad 1.3 — Feeds RSS y vigilancia tecnológica](./Actividad1.3.md)
+  - 📄 [Actividad 1.4 — Metadatos, indexación y organización](./Actividad1.4.md)
+  - 📄 [Actividad 1.5 — Sesgos algorítmicos en buscadores](./Actividad1.5.md)
+  - 📄 [Actividades 2 — Salud mental y tecnología en jóvenes (multi-fuente)](./Actividades2.md)
+  - 📄 [Actividades 3 — Análisis crítico de medios y algoritmos](./Actividades3.md)
+
+- 📁 NLP — Procesamiento de Lenguaje Natural
+  - `NLTK.py` — Tokenización, stopwords, stemming y frecuencia de términos en español
+  - `NLTK_Activity.py` — Análisis comparativo de corpus con y sin preprocesamiento NLTK
+  - `TF-IDF.py` — Vectorización manual y con sklearn, matriz TF-IDF y documento más representativo por término
+  - `similitud_coseno.py` — Similitud coseno básica sin filtrado de stopwords
+  - `similitud_coseno_stop.py` — Similitud coseno con eliminación de stopwords (comparación de impacto)
+  - `similitud_coseno_nltk.py` — Pipeline completo NLTK → TF-IDF → coseno con búsqueda por consulta
+
+- 📁 K-Means Clustering
+  - `K_means_cluster.py` — K-Means sobre noticias simuladas con análisis de centroides y Silhouette Score
+  - `tutorial_kmeans_tweets.py` — Tutorial paso a paso aplicado a tweets simulados (6 pasos documentados)
+  - 📄 [Reporte K-Means](./Reporte_kmeans.md)
+
+- 📁 Clasificación y Sentimientos
+  - `clasificacion_comentarios.py` — Clasificador de sentimiento basado en léxico, exporta CSV
+  - `clasificacion_comentarios2.0.py` — V2: puntuación ponderada, negaciones e intensificadores
+  - `extraccion_comentarios.py` — Lee CSV, detecta sentimiento y sarcasmo, exporta reporte
+
+- 📁 Datasets
+  - `100comentarios.csv` — 100 comentarios simulados etiquetados (Positivo/Negativo/Neutro)
+  - `dataset_redes_sociales_200.csv` — 200 publicaciones de redes sociales con usuario, plataforma y likes
+  - `clasificacion_sarcasmo_200.csv` — 200 textos con etiqueta binaria de sarcasmo
+  - `sentimientos_resultados.csv` — Resultados de clasificación con score de confianza
+  - `sentimientos_resultados_100.csv` — Resultados de 100 comentarios clasificados
+
+- 📁 Notebooks
+  - `covid-19.ipynb` — EDA de datos COVID-19 simulados: curva epidémica, distribución por edad y estado
+  - `diabetes.ipynb` — EDA + clasificador logístico para diagnóstico de diabetes con datos simulados
+
+- 📁 Documentos Teóricos
+  - 📄 [Algoritmos Supervisados](./Algoritmos_supervisados.md) — Naive Bayes, SVM, Regresión Logística, Random Forest
+  - 📄 [LSTM — Redes de Memoria a Largo Plazo](./LSTM.md)
+  - 📄 [Ventana de Overton](./Overton.md) — Marco analítico aplicado a narrativas digitales
+  - 📄 [Programas de Gobierno y Digitalización](./Programas_Gob.md)
+  - 📄 [Conceptos de Recuperación de Información](./Informacion_Recu.txt)
+
+- 📁 Textos base
+  - `textos/doc1.txt` — IA y recuperación de información (texto de referencia para NLP)
+  - `textos/doc2.txt` — Minería de texto y análisis de sentimientos en redes sociales
+
 ## Proyectos Finales
 
 | Proyecto | Repositorio |

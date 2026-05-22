@@ -1,0 +1,201 @@
+id,usuario,texto,plataforma,likes,etiqueta
+1,usuario_01,Me encanta la nueva actualización de la app es genial,Twitter,45,Positivo
+2,usuario_02,Pésimo servicio nunca más vuelvo a comprar en esta tienda,Twitter,12,Negativo
+3,usuario_03,Hoy tuve una experiencia increíble en el restaurante,Instagram,230,Positivo
+4,usuario_04,El clima está terrible hoy no salgas si no es necesario,Twitter,8,Negativo
+5,usuario_05,Acabo de terminar un proyecto increíble muy orgulloso,LinkedIn,89,Positivo
+6,usuario_06,La película que vi anoche fue un completo aburrimiento,Twitter,34,Negativo
+7,usuario_07,Feliz cumpleaños a mi mejor amiga eres lo máximo,Instagram,512,Positivo
+8,usuario_08,El tráfico de esta ciudad es imposible todos los días,Twitter,67,Negativo
+9,usuario_09,Hoy empecé un nuevo trabajo estoy muy emocionado,LinkedIn,156,Positivo
+10,usuario_10,Esta canción me tiene loco llevo días escuchándola,Twitter,89,Positivo
+11,usuario_11,Por qué el gobierno no hace nada con el agua esto es terrible,Twitter,203,Negativo
+12,usuario_12,Acabo de probar el nuevo café de la esquina absolutamente delicioso,Instagram,178,Positivo
+13,usuario_13,El internet en este país es un desastre total,Twitter,445,Negativo
+14,usuario_14,Nuestro equipo ganó el campeonato increíble emoción,Twitter,678,Positivo
+15,usuario_15,El hospital me tardó cuatro horas para atenderme,Twitter,234,Negativo
+16,usuario_16,Hermosa tarde con la familia en el parque,Instagram,345,Positivo
+17,usuario_17,La calidad del producto que compré es malísima,Twitter,56,Negativo
+18,usuario_18,Acabé de leer el mejor libro que he tenido en mis manos,Twitter,123,Positivo
+19,usuario_19,El precio de la gasolina sube sin parar es un robo,Twitter,567,Negativo
+20,usuario_20,Mi perro aprendió un nuevo truco hoy qué inteligente es,Instagram,890,Positivo
+21,usuario_21,El vuelo llegó con dos horas de retraso sin explicación,Twitter,234,Negativo
+22,usuario_22,Nuevo récord personal en el gimnasio muy contento,Instagram,456,Positivo
+23,usuario_23,El banco cobró comisiones que no habían avisado,Twitter,345,Negativo
+24,usuario_24,Pasé mi examen de certificación con la calificación más alta,LinkedIn,567,Positivo
+25,usuario_25,El arreglo de mi coche costó el doble de lo que dijeron,Twitter,189,Negativo
+26,usuario_26,Primera vez en Europa y es exactamente como lo soñaba,Instagram,1230,Positivo
+27,usuario_27,La comida del evento empresarial era literalmente horrible,Twitter,78,Negativo
+28,usuario_28,Acabo de recibir mi título universitario gracias a todos,Instagram,2345,Positivo
+29,usuario_29,El vecino no para de hacer ruido hasta la madrugada,Twitter,123,Negativo
+30,usuario_30,Hoy terminé mi primer maratón no puedo creerlo,Twitter,567,Positivo
+31,usuario_31,El proveedor incumplió con los tiempos de entrega acordados,LinkedIn,45,Negativo
+32,usuario_32,Increíble atardecer desde la terraza de mi casa,Instagram,789,Positivo
+33,usuario_33,Me robaron el teléfono en el centro tengan cuidado,Twitter,456,Negativo
+34,usuario_34,Graduación de mi hijo el día más feliz de mi vida,Instagram,1890,Positivo
+35,usuario_35,El sistema de transporte público colapsó de nuevo,Twitter,678,Negativo
+36,usuario_36,Finalmente encontré el trabajo de mis sueños,LinkedIn,890,Positivo
+37,usuario_37,El concierto fue suspendido sin previo aviso y sin reembolso,Twitter,456,Negativo
+38,usuario_38,Primera exhibición de mis fotografías una noche increíble,Instagram,567,Positivo
+39,usuario_39,La app del banco no funciona y necesito hacer pagos urgentes,Twitter,234,Negativo
+40,usuario_40,Acabo de publicar mi primer artículo académico qué logro,LinkedIn,345,Positivo
+41,usuario_41,El restaurante cobró por extras que no pedimos en la cuenta,Twitter,189,Negativo
+42,usuario_42,Nuestra startup recibió financiamiento primera ronda cerrada,LinkedIn,678,Positivo
+43,usuario_43,Se canceló mi vuelo y perderé una reunión muy importante,Twitter,234,Negativo
+44,usuario_44,Hoy presenté mi tesis con mención honorífica muy orgulloso,Instagram,1234,Positivo
+45,usuario_45,El servicio de streaming subió el precio sin mejoras visibles,Twitter,456,Negativo
+46,usuario_46,Nuestro equipo de fútbol infantil ganó el torneo regional,Instagram,789,Positivo
+47,usuario_47,La constructora dejó mi departamento sin terminar dos meses,Twitter,345,Negativo
+48,usuario_48,Conseguí boletos para el concierto de mi banda favorita,Twitter,567,Positivo
+49,usuario_49,El parque cercano está lleno de basura nadie lo limpia,Twitter,234,Negativo
+50,usuario_50,Mi hija habló sus primeras palabras hoy estoy llorando de alegría,Instagram,2345,Positivo
+51,usuario_51,El seguro de gastos médicos se negó a cubrir mi cirugía,Twitter,456,Negativo
+52,usuario_52,Terminé mi curso de programación en línea muy satisfecho,LinkedIn,345,Positivo
+53,usuario_53,La empresa cambió los términos del contrato sin avisar,Twitter,189,Negativo
+54,usuario_54,Primera caminata de montaña del año vistas increíbles,Instagram,890,Positivo
+55,usuario_55,El médico me dejó esperando dos horas sin dar aviso,Twitter,234,Negativo
+56,usuario_56,Nuestro proyecto ganó el primer lugar en la hackathon,LinkedIn,678,Positivo
+57,usuario_57,La lavadora nueva falló a la semana de comprarla,Twitter,156,Negativo
+58,usuario_58,Hoy comenzó mi viaje por Latinoamérica sueño cumplido,Instagram,1230,Positivo
+59,usuario_59,El delivery llegó frío y sin la bebida que pedí,Twitter,89,Negativo
+60,usuario_60,Recibí una beca completa para mi posgrado en el extranjero,LinkedIn,1456,Positivo
+61,usuario_61,La tienda en línea tardó un mes y llegó el artículo equivocado,Twitter,234,Negativo
+62,usuario_62,Acabo de adoptar a mi nueva perrita familia completa,Instagram,1789,Positivo
+63,usuario_63,El sistema de salud no tiene citas disponibles hasta en seis meses,Twitter,567,Negativo
+64,usuario_64,Hoy terminé el maratón de lectura del año treinta libros,Twitter,345,Positivo
+65,usuario_65,El proveedor de internet me cobró un servicio que cancelé,Twitter,123,Negativo
+66,usuario_66,Mi negocio cumple tres años de existencia gracias a todos,Instagram,890,Positivo
+67,usuario_67,El gobierno prometió arreglar la calle y lleva dos años igual,Twitter,456,Negativo
+68,usuario_68,Aprobé el examen de idiomas nivel avanzado muy contento,LinkedIn,234,Positivo
+69,usuario_69,El estacionamiento del mall cobró de más y no devuelven,Twitter,189,Negativo
+70,usuario_70,Mi libro fue publicado por primera vez emoción total,Instagram,2345,Positivo
+71,usuario_71,La plataforma eliminó mi cuenta sin explicación ni aviso,Twitter,678,Negativo
+72,usuario_72,Primer año de casados y sigo siendo el hombre más feliz,Instagram,1567,Positivo
+73,usuario_73,El técnico arregló mal el problema y ahora está peor,Twitter,123,Negativo
+74,usuario_74,Acabo de certificarme en cloud computing meta cumplida,LinkedIn,456,Positivo
+75,usuario_75,El supermercado vendió productos vencidos esta semana,Twitter,345,Negativo
+76,usuario_76,Terminé de construir mi primera computadora desde cero,Twitter,567,Positivo
+77,usuario_77,El aeropuerto perdió mi maleta en el vuelo internacional,Twitter,234,Negativo
+78,usuario_78,Mi planta de dos años finalmente floreció hoy qué emoción,Instagram,456,Positivo
+79,usuario_79,La aplicación de pagos está caída justo cuando necesito usarla,Twitter,189,Negativo
+80,usuario_80,Primer camión propio para mi negocio de logística,Instagram,789,Positivo
+81,usuario_81,La tienda no acepta devoluciones aunque el producto está roto,Twitter,234,Negativo
+82,usuario_82,Mi hijo ingresó a la universidad que soñaba orgullo enorme,Instagram,1890,Positivo
+83,usuario_83,El departamento que renté no corresponde a las fotos publicadas,Twitter,456,Negativo
+84,usuario_84,Hoy presenté mi proyecto de investigación en congreso internacional,LinkedIn,567,Positivo
+85,usuario_85,El banco no me deja retirar mi propio dinero por error del sistema,Twitter,678,Negativo
+86,usuario_86,Finalmente aprendí a tocar la guitarra meta del año cumplida,Instagram,345,Positivo
+87,usuario_87,El restaurante cobró propina automática sin preguntar,Twitter,234,Negativo
+88,usuario_88,Mi emprendimiento fue seleccionado para incubadora nacional,LinkedIn,789,Positivo
+89,usuario_89,La constructora abandonó la obra sin terminarla ni avisar,Twitter,456,Negativo
+90,usuario_90,Regresé de mi primer viaje en solitario transformado completamente,Instagram,1234,Positivo
+91,usuario_91,El curso en línea no incluye el material prometido en la descripción,Twitter,123,Negativo
+92,usuario_92,Primer aniversario de mi podcast más de diez mil oyentes,Twitter,890,Positivo
+93,usuario_93,El taller no entregó el coche en el tiempo acordado,Twitter,189,Negativo
+94,usuario_94,Acabo de participar como ponente en mi primera conferencia,LinkedIn,456,Positivo
+95,usuario_95,El condominio tiene goteras desde hace meses y no arreglan,Twitter,234,Negativo
+96,usuario_96,Mi equipo logró la certificación ISO después de meses de trabajo,LinkedIn,567,Positivo
+97,usuario_97,La empresa de mudanzas rompió varios muebles sin responsabilizarse,Twitter,345,Negativo
+98,usuario_98,Primera exposición fotográfica superó todas mis expectativas,Instagram,678,Positivo
+99,usuario_99,El servicio de streaming tiene errores constantemente,Twitter,123,Negativo
+100,usuario_100,Acabo de lanzar mi primera aplicación móvil en la tienda,LinkedIn,789,Positivo
+101,usuario_101,La tarjeta fue bloqueada sin razón justo en el extranjero,Twitter,456,Negativo
+102,usuario_102,Hoy fui a votar por primera vez momento histórico personal,Twitter,345,Positivo
+103,usuario_103,El médico me recetó medicamentos equivocados por error,Twitter,234,Negativo
+104,usuario_104,Mi cuento fue publicado en la revista literaria del estado,Instagram,567,Positivo
+105,usuario_105,La empresa de paquetería perdió mi envío importante,Twitter,189,Negativo
+106,usuario_106,Finalmente terminé de pagar mi casa meta de vida cumplida,Instagram,1456,Positivo
+107,usuario_107,El proveedor de agua potable suspendió el servicio sin aviso,Twitter,678,Negativo
+108,usuario_108,Primera vez cocinando sushi en casa salió increíble,Instagram,456,Positivo
+109,usuario_109,La empresa cobró mi suscripción aunque ya la había cancelado,Twitter,234,Negativo
+110,usuario_110,Recibí reconocimiento por diez años de servicio en la empresa,LinkedIn,789,Positivo
+111,usuario_111,El gimnasio cobró mensualidad después de cancelar el contrato,Twitter,123,Negativo
+112,usuario_112,Hoy terminé de leer el libro más difícil de mi vida,Twitter,234,Positivo
+113,usuario_113,El vecino lleva semanas con construcción ruidosa todo el día,Twitter,189,Negativo
+114,usuario_114,Primera colaboración con una marca que admiro desde años,Instagram,567,Positivo
+115,usuario_115,La línea de atención al cliente tiene una espera de dos horas,Twitter,345,Negativo
+116,usuario_116,Nuestro bebé dormió toda la noche por primera vez,Instagram,1234,Positivo
+117,usuario_117,El seguro no cubrió el daño que claramente estaba en la póliza,Twitter,456,Negativo
+118,usuario_118,Finalicé mi diplomado con honores muy agradecido,LinkedIn,567,Positivo
+119,usuario_119,La plataforma de trabajo freelance retiene pagos sin justificación,Twitter,234,Negativo
+120,usuario_120,Primer viaje de mochilero por México increíble experiencia,Instagram,890,Positivo
+121,usuario_121,El técnico instaló mal el aparato y ahora no funciona nada,Twitter,123,Negativo
+122,usuario_122,Aprendí a programar en Python y ya tengo mi primer proyecto,LinkedIn,456,Positivo
+123,usuario_123,El departamento de recursos humanos perdió mi expediente,Twitter,189,Negativo
+124,usuario_124,Hoy ayudé a alguien por primera vez sin conocerlo,Instagram,678,Positivo
+125,usuario_125,La empresa de diseño entregó trabajo de muy mala calidad,Twitter,234,Negativo
+126,usuario_126,Mi negocio de repostería alcanzó sus primeras cien ventas,Instagram,789,Positivo
+127,usuario_127,El proveedor cambió precios sin notificar el nuevo catálogo,LinkedIn,123,Negativo
+128,usuario_128,Terminé mi primera novela gráfica después de dos años,Twitter,456,Positivo
+129,usuario_129,El banco me negó el crédito sin dar ninguna explicación,Twitter,234,Negativo
+130,usuario_130,Mi fotografía fue seleccionada para exposición internacional,Instagram,1234,Positivo
+131,usuario_131,La comida del hospital es completamente incomible,Twitter,189,Negativo
+132,usuario_132,Primer mes como freelance y ya tengo tres clientes,LinkedIn,345,Positivo
+133,usuario_133,El automóvil tiene fallas desde que salió del agencia,Twitter,456,Negativo
+134,usuario_134,Acabo de presentar mi tesis doctoral cuatro años de trabajo,LinkedIn,789,Positivo
+135,usuario_135,La empresa de internet instaló mal el servicio y no regresa,Twitter,234,Negativo
+136,usuario_136,Mi canal de YouTube llegó a mil suscriptores hoy,Twitter,567,Positivo
+137,usuario_137,El médico canceló mi cita el mismo día de la consulta,Twitter,123,Negativo
+138,usuario_138,Acabo de firmar contrato para mi primer departamento propio,Instagram,890,Positivo
+139,usuario_139,La plataforma de educación en línea no funciona los fines de semana,Twitter,189,Negativo
+140,usuario_140,Primer trofeo de mi carrera deportiva amateur,Instagram,456,Positivo
+141,usuario_141,El servicio de streaming eliminó contenido sin avisar,Twitter,234,Negativo
+142,usuario_142,Hoy obtuve mi licencia de piloto comercial sueño hecho realidad,Instagram,1567,Positivo
+143,usuario_143,La empresa prometió entrega en dos días y ya van quince,Twitter,345,Negativo
+144,usuario_144,Mi primer cuadro al óleo vendido a la primera semana,Instagram,678,Positivo
+145,usuario_145,El hotel no tenía la reservación aunque tengo la confirmación,Twitter,456,Negativo
+146,usuario_146,Finalmente aprendí a manejar la moto de mis sueños,Instagram,789,Positivo
+147,usuario_147,La garantía expiró el día exacto que falló el producto,Twitter,234,Negativo
+148,usuario_148,Mi blog de viajes llegó a diez mil lectores mensuales,Twitter,567,Positivo
+149,usuario_149,La empresa retuvo mi depósito de renta sin justificación,Twitter,189,Negativo
+150,usuario_150,Primer año como emprendedor y ya tengo empleados,LinkedIn,890,Positivo
+151,usuario_151,El vuelo estuvo retrasado cuatro horas sin compensación,Twitter,345,Negativo
+152,usuario_152,Acabo de aprender a hacer pan en casa primera hogaza,Instagram,456,Positivo
+153,usuario_153,La aplicación de transporte cobró de más en el viaje,Twitter,123,Negativo
+154,usuario_154,Mi proyecto de huerto urbano está dando sus primeros frutos,Instagram,567,Positivo
+155,usuario_155,El proveedor de eventos falló el día del evento importante,Twitter,234,Negativo
+156,usuario_156,Terminé mi primer triatlón resultado mejor del esperado,Twitter,678,Positivo
+157,usuario_157,El vecindario lleva un mes sin agua potable constante,Twitter,456,Negativo
+158,usuario_158,Primera venta internacional de mi negocio artesanal,Instagram,789,Positivo
+159,usuario_159,La empresa de seguros tardó seis meses en pagar el siniestro,Twitter,234,Negativo
+160,usuario_160,Mi equipo terminó el proyecto antes del plazo establecido,LinkedIn,567,Positivo
+161,usuario_161,El arrendador no devuelve llamadas ni mensajes hace semanas,Twitter,189,Negativo
+162,usuario_162,Primer ciclo de cultivo exitoso en mi jardín interior,Instagram,345,Positivo
+163,usuario_163,El contratista dejó la remodelación a medias y desapareció,Twitter,456,Negativo
+164,usuario_164,Hoy doné sangre por primera vez me siento muy bien,Twitter,678,Positivo
+165,usuario_165,La plataforma de pagos falló justo en quincena terrible,Twitter,345,Negativo
+166,usuario_166,Mi hija aprendió a leer completamente sola qué orgullo,Instagram,1234,Positivo
+167,usuario_167,El proveedor de servicios aumentó la tarifa sin contrato,Twitter,234,Negativo
+168,usuario_168,Primer año de matrimonio y cada día más enamorado,Instagram,1456,Positivo
+169,usuario_169,La empresa de transporte dañó mi mudanza completa,Twitter,456,Negativo
+170,usuario_170,Acabo de publicar mi primer podcast con mil escuchas,Twitter,567,Positivo
+171,usuario_171,El médico de guardia no sabía qué hacer con mi caso,Twitter,189,Negativo
+172,usuario_172,Terminé el desafío de treinta días de yoga transformador,Instagram,678,Positivo
+173,usuario_173,La constructora usó materiales de menor calidad al contrato,Twitter,345,Negativo
+174,usuario_174,Primer concurso de fotografía ganado emoción enorme,Instagram,789,Positivo
+175,usuario_175,El servicio técnico tardó dos semanas en un reparación simple,Twitter,234,Negativo
+176,usuario_176,Acabo de llegar a cien seguidores en mi newsletter,LinkedIn,456,Positivo
+177,usuario_177,La tienda cobró sin entregar y no responde mensajes,Twitter,123,Negativo
+178,usuario_178,Primer año vegetariano sintiéndome increíble,Instagram,567,Positivo
+179,usuario_179,El proveedor entregó materiales de mala calidad al precio alto,Twitter,234,Negativo
+180,usuario_180,Mi primera aplicación de código abierto recibió cien estrellas,LinkedIn,678,Positivo
+181,usuario_181,El banco tardó tres meses en resolver un error que ellos cometieron,Twitter,345,Negativo
+182,usuario_182,Primer año sin azúcar procesada nunca me había sentido mejor,Instagram,456,Positivo
+183,usuario_183,La empresa de internet aumentó el precio sin mejorar el servicio,Twitter,189,Negativo
+184,usuario_184,Finalicé un proyecto que creía imposible hace un año,LinkedIn,567,Positivo
+185,usuario_185,El condominio no repara el elevador desde hace cuatro meses,Twitter,234,Negativo
+186,usuario_186,Acabo de conseguir financiamiento para mi proyecto educativo,LinkedIn,678,Positivo
+187,usuario_187,La empresa de software entregó producto con muchos errores,Twitter,345,Negativo
+188,usuario_188,Primer verano de surf aprendido completamente desde cero,Instagram,456,Positivo
+189,usuario_189,El restaurante sirvió comida en mal estado y nadie se disculpó,Twitter,123,Negativo
+190,usuario_190,Terminé mi primer año como docente experiencia transformadora,LinkedIn,789,Positivo
+191,usuario_191,El distribuidor vendió producto falsificado como original,Twitter,456,Negativo
+192,usuario_192,Mi emprendimiento fue destacado en una revista nacional,Instagram,890,Positivo
+193,usuario_193,La tienda departamental cobró de más y el proceso fue tardado,Twitter,234,Negativo
+194,usuario_194,Primer semestre universitario aprobado con promedio excelente,Instagram,567,Positivo
+195,usuario_195,El proveedor de hosting cayó y perdí datos importantes,Twitter,189,Negativo
+196,usuario_196,Acabo de terminar la carrera universitaria cinco años de esfuerzo,Instagram,2345,Positivo
+197,usuario_197,La aplicación de delivery cobró sin confirmar el pedido,Twitter,234,Negativo
+198,usuario_198,Primer video en YouTube llegó a diez mil reproducciones,Twitter,678,Positivo
+199,usuario_199,El servicio de agua tardó tres semanas en reparar la fuga,Twitter,345,Negativo
+200,usuario_200,Acabo de obtener mi residencia permanente en el extranjero,Instagram,1890,Positivo

@@ -1,0 +1,21 @@
+id,texto,sentimiento,score,score_pos,score_neg
+1,El producto llegó en perfectas condiciones y funciona excelente,Positivo,0.75,3.0,0.0
+2,Pésimo servicio nunca respondieron mis mensajes de soporte,Negativo,-0.8,0.0,4.0
+3,La calidad es buena para el precio que tiene,Positivo,0.33,1.0,0.0
+4,Me encanta la aplicación es muy intuitiva y rápida,Positivo,0.67,2.0,0.0
+5,Terrible experiencia el paquete llegó completamente roto,Negativo,-0.67,0.0,2.0
+6,El envío tardó pero el producto llegó en buenas condiciones,Neutro,0.0,1.0,1.0
+7,No me convenció del todo esperaba algo mejor,Neutro,0.0,0.0,0.0
+8,Increíble calidad superó todas mis expectativas,Positivo,1.0,3.0,0.0
+9,El servicio al cliente resolvió mi problema de inmediato,Positivo,0.5,1.0,0.0
+10,Fraude total no corresponde lo que anuncian con lo que entregan,Negativo,-1.0,0.0,3.0
+11,Funciona bien aunque podría ser más rápido,Neutro,0.0,1.0,1.0
+12,Compré tres veces y siempre llegó en perfectas condiciones,Positivo,0.5,1.0,0.0
+13,Se rompió al segundo día de uso muy decepcionante,Negativo,-0.75,0.0,3.0
+14,El diseño es hermoso y los materiales son de calidad,Positivo,0.5,2.0,0.0
+15,El soporte tardó semanas en contestar mi ticket,Negativo,-0.5,0.0,1.0
+16,Producto útil y práctico cumple con lo que promete,Positivo,0.67,2.0,0.0
+17,Lento y defectuoso no lo volvería a comprar jamás,Negativo,-0.8,0.0,4.0
+18,Satisfecho con la compra recomiendo este vendedor,Positivo,0.67,2.0,0.0
+19,La guía de instalación podría ser más clara y detallada,Neutro,0.0,0.0,0.0
+20,Excelente relación calidad precio de los mejores que he comprado,Positivo,0.75,3.0,0.0
